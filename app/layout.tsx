@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
 	title: 'Broken Links Checker 🎉',
-	description: 'Internship first round short assignment',
+	description: 'Check for broken links on your website by entering the domain name.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

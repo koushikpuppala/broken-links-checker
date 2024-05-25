@@ -18,12 +18,12 @@ const FooterComponent = ({ toggle }: { toggle?: boolean }) => {
 					className='text-gray-700 transition hover:text-gray-700/75 dark:text-gray-400 dark:hover:text-gray-400/75'>
 					GitHub
 				</Link>
-				{toggle ? '. For formActions method ' : '. For onClick event method '}
+				{/* {toggle ? '. For formActions method ' : '. For onClick event method '}
 				<Link
 					href={toggle ? '/' : '/vercel'}
 					className='text-gray-700 transition hover:text-gray-700/75 dark:text-gray-400 dark:hover:text-gray-400/75'>
 					Click Here
-				</Link>
+				</Link> */}
 			</p>
 		</div>
 	)
