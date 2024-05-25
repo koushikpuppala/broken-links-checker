@@ -1,3 +1,6 @@
+export { default as FooterComponent } from './Footer'
+export { default as FormActionComponent } from './FormAction'
+export { default as InputComponent } from './Input'
 export { default as LinksTableComponent } from './LinksTable'
+export { default as OnClickComponent } from './OnClick'
 export { default as SubmitButtonComponent } from './SubmitButton'
-export { default as VercelLinksTableComponent } from './VercelLinksTable'
